@@ -1,1 +1,1 @@
-# just a very basic java learning 
+# The first program is about a simple matrix calculator including nearly all basic types in Linear Algebra(waiting for improvement(more methods of matrix decomposition or approximation methods...)...)
