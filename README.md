@@ -4,6 +4,32 @@
 
 The first section here is the knowledge that attracts most of my interests on this module, followed by the lecture notes I tapped when I am on the journey of this module.
 
+
+# Book---Clean code reading
+
+## Motivation
+
+-   God is in the details. --Today's agile world needs the role of architecture with patient to internalize the idea of "small things matter", especially in software development.
+
+-   Craftmanship is important in these two aspects:
+
+    -   Knowledge of principles, patterns
+
+    -   Work hard and practic/sweat over it and watch myself fail.
+
+So, please grind the knowledge with forever practice!
+
+-   Code represents the details of the requirements.
+
+-   defend the code with equal passion
+
+-   A programmer with "code-sense" will look at messy module and see options and variations, helping choose the best variation and guide to plot a sequence of behavior preserving transformations to get from here to there.
+
+-   A programmer who writes clean code is an artist who can take a blank screen through a series of transformations until it is an elegantly coded system
+
+-   
+
+
 # static
 有无static的区别：有static，即静态的，objects共享一个memory；无static，objects各有各的memory
 
@@ -490,27 +516,4 @@ public class TestPersonArray {
 }
 ```
 
-# Clean code reading
-
-## Motivation
-
--   God is in the details. --Today's agile world needs the role of architecture with patient to internalize the idea of "small things matter", especially in software development.
-
--   Craftmanship is important in these two aspects:
-
-    -   Knowledge of principles, patterns
-
-    -   Work hard and practic/sweat over it and watch myself fail.
-
-So, please grind the knowledge with forever practice!
-
--   Code represents the details of the requirements.
-
--   defend the code with equal passion
-
--   A programmer with "code-sense" will look at messy module and see options and variations, helping choose the best variation and guide to plot a sequence of behavior preserving transformations to get from here to there.
-
--   A programmer who writes clean code is an artist who can take a blank screen through a series of transformations until it is an elegantly coded system
-
--   
 
