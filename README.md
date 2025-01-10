@@ -1,5 +1,14 @@
 # The first program is in "myfirstprogram" including MatrixCalculator with test, report for further explaination.
 
+
+
+
+
+
+
+
+
+
 # Preface
 
 The first section here is the knowledge that attracts most of my interests on this module, followed by the lecture notes I tapped when I am on the journey of this module.
