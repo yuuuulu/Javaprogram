@@ -3,16 +3,16 @@
 
 
 
+This is a matrix calculator...
 
 
 
-
-## Preface
+# Preface
 
 The first section here is the knowledge that attracts most of my interests on this module, followed by the lecture notes I tapped when I am on the journey of this module.
 
 
-## Book---Clean code reading
+# Book---Clean code reading
 
 ## Motivation
 
