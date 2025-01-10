@@ -6,19 +6,13 @@
 
 
 
-//
-//
-//
-//
 
-
-
-# Preface
+## Preface
 
 The first section here is the knowledge that attracts most of my interests on this module, followed by the lecture notes I tapped when I am on the journey of this module.
 
 
-# Book---Clean code reading
+## Book---Clean code reading
 
 ## Motivation
 
@@ -43,7 +37,7 @@ So, please grind the knowledge with forever practice!
 -   
 
 
-# static
+## static
 有无static的区别：有static，即静态的，objects共享一个memory；无static，objects各有各的memory
 
 Idea: This make sense since a class is just a blueprint which could not execute a non-static method and it is "public void xx" that gives each instance different characteristic. So non-static method can only be called on individual objects.
