@@ -522,4 +522,7 @@ public class TestPersonArray {
 }
 ```
 
+## Some for-loop practice 
 
+
+## class-buliding practice
