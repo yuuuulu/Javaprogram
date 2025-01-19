@@ -33,7 +33,8 @@ So, please grind the knowledge with forever practice!
 
 -   A programmer who writes clean code is an artist who can take a blank screen through a series of transformations until it is an elegantly coded system
 
--   
+- 　A systematic idea holds all while catch all possibility in a code design so do not tap first, write even draw instead.
+
 
 
 ## static
